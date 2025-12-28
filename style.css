@@ -39,6 +39,12 @@
     justify-content: center;
     gap: 15px;
     }
+ .circle-img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+ }
     .logo {
     width: 60px;        
     height: auto;
@@ -116,4 +122,5 @@
             padding: 20px;
             margin-top: 40px;
         }
+
 </style>
