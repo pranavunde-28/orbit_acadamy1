@@ -5,7 +5,8 @@
         background: #f8f8f8;
     }
     header {
-        background: #1ee571;
+       
+         background: linear-gradient(to right, #1eff47,  #0da132);
         color: white;
         padding: 20px;
         text-align: center;
@@ -125,5 +126,6 @@
         }
 
 </style>
+
 
 
