@@ -44,6 +44,7 @@
       height: 150px;
       border-radius: 50%;
       object-fit: cover;
+      position:absolute; top:8px; left:110px; z-index:1000;
  }
     .logo {
     width: 60px;        
@@ -124,3 +125,4 @@
         }
 
 </style>
+
